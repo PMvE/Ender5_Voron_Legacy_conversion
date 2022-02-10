@@ -1,6 +1,6 @@
 # Ender5_Voron_Legacy_conversion
 
-!!!! only did a test fit the printer is not working yet !!!!
+! only did a test fit the printer is not working yet !
 
 Adjusted stl's for a ender 5 to voron legacy conversion.
 
